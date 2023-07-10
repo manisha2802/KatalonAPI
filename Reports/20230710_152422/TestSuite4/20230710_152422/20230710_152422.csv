@@ -1,0 +1,20 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+TestSuite4,Windows - Edge Chromium 114,,,2023-07-10 15:24:34,2023-07-10 15:27:23,2m - 48.441s,PASSED
+,,,,,,,
+Test Cases/TestCase3,Windows - Edge Chromium 114,,,2023-07-10 15:24:35,2023-07-10 15:27:23,2m - 48.182s,PASSED
+"openBrowser("""")",Windows - Edge Chromium 114,,,2023-07-10 15:24:35,2023-07-10 15:26:32,1m - 56.618s,PASSED
+"navigateToUrl(""https://katalon-demo-cura.herokuapp.com/"")",Windows - Edge Chromium 114,,,2023-07-10 15:26:32,2023-07-10 15:26:33,1.818s,PASSED
+"click(findTestObject(""Object Repository/ts4/Page_CURA Healthcare Service/a_Make Appointment""))",Windows - Edge Chromium 114,,,2023-07-10 15:26:33,2023-07-10 15:26:37,3.888s,PASSED
+"setText(findTestObject(""Object Repository/ts4/Page_CURA Healthcare Service/input_Username_username""), ""John Doe"")",Windows - Edge Chromium 114,,,2023-07-10 15:26:37,2023-07-10 15:26:43,5.848s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/ts4/Page_CURA Healthcare Service/input_Password_password""), ""g3/DOGG74jC3Flrr3yH+3D/yKbOqqUNM"")",Windows - Edge Chromium 114,,,2023-07-10 15:26:43,2023-07-10 15:26:47,3.758s,PASSED
+"click(findTestObject(""Object Repository/ts4/Page_CURA Healthcare Service/button_Login""))",Windows - Edge Chromium 114,,,2023-07-10 15:26:47,2023-07-10 15:26:51,4.103s,PASSED
+"click(findTestObject(""Object Repository/ts4/Page_CURA Healthcare Service/input_Apply for hospital readmission_hospit_63901f""))",Windows - Edge Chromium 114,,,2023-07-10 15:26:51,2023-07-10 15:26:54,2.922s,PASSED
+"click(findTestObject(""Object Repository/ts4/Page_CURA Healthcare Service/input_Medicaid_programs""))",Windows - Edge Chromium 114,,,2023-07-10 15:26:54,2023-07-10 15:26:57,3.288s,PASSED
+"click(findTestObject(""Object Repository/ts4/Page_CURA Healthcare Service/input_Visit Date (Required)_visit_date""))",Windows - Edge Chromium 114,,,2023-07-10 15:26:57,2023-07-10 15:27:00,2.985s,PASSED
+"click(findTestObject(""Object Repository/ts4/Page_CURA Healthcare Service/td_5""))",Windows - Edge Chromium 114,,,2023-07-10 15:27:00,2023-07-10 15:27:03,2.902s,PASSED
+"setText(findTestObject(""Object Repository/ts4/Page_CURA Healthcare Service/textarea_Comment_comment""), ""ABCD"")",Windows - Edge Chromium 114,,,2023-07-10 15:27:03,2023-07-10 15:27:09,6.194s,PASSED
+"click(findTestObject(""Object Repository/ts4/Page_CURA Healthcare Service/button_Book Appointment""))",Windows - Edge Chromium 114,,,2023-07-10 15:27:09,2023-07-10 15:27:12,2.999s,PASSED
+"verifyElementPresent(findTestObject(""Object Repository/ts4/Page_CURA Healthcare Service/h2_Appointment Confirmation""), 3)",Windows - Edge Chromium 114,,,2023-07-10 15:27:12,2023-07-10 15:27:15,2.234s,PASSED
+"click(findTestObject(""Object Repository/ts4/Page_CURA Healthcare Service/a_CURA Healthcare_menu-toggle""))",Windows - Edge Chromium 114,,,2023-07-10 15:27:15,2023-07-10 15:27:18,2.937s,PASSED
+"click(findTestObject(""Object Repository/ts4/Page_CURA Healthcare Service/a_Logout""))",Windows - Edge Chromium 114,,,2023-07-10 15:27:18,2023-07-10 15:27:21,3.581s,PASSED
+closeBrowser(),Windows - Edge Chromium 114,,,2023-07-10 15:27:21,2023-07-10 15:27:23,1.713s,PASSED
