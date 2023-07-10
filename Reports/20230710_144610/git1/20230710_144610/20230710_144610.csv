@@ -1,0 +1,8 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+git1,Windows - Edge Chromium 114,,,2023-07-10 14:46:27,2023-07-10 14:48:51,2m - 24.240s,PASSED
+,,,,,,,
+Test Cases/test1,Windows - Edge Chromium 114,,,2023-07-10 14:46:27,2023-07-10 14:48:51,2m - 23.958s,PASSED
+"openBrowser("""")",Windows - Edge Chromium 114,,,2023-07-10 14:46:28,2023-07-10 14:48:32,2m - 3.726s,PASSED
+"navigateToUrl(""https://www.interviewbit.com/javascript-interview-questions/"")",Windows - Edge Chromium 114,,,2023-07-10 14:48:32,2023-07-10 14:48:42,10.705s,PASSED
+"click(findTestObject(""Object Repository/git1/Page_JavaScript Interview Questions and Ans_8879ef/h1_JavaScript  Interview Questions""))",Windows - Edge Chromium 114,,,2023-07-10 14:48:42,2023-07-10 14:48:49,6.569s,PASSED
+closeBrowser(),Windows - Edge Chromium 114,,,2023-07-10 14:48:49,2023-07-10 14:48:51,2.571s,PASSED
